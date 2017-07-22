@@ -8,8 +8,8 @@ if(n%2==0)
 {
 ptintf("the number is even");
 }
-elseif(n%2!==0)
+else
 {
-printf("the number is even");
+printf("the number is odd");
 }
 }
