@@ -13,6 +13,8 @@ case 'o':
 case 'u':
      printf("the charecter is vowel");
 break;
-printf("the charecter is consonent");
+     default: printf("the charecter is consonent");
+          break;
 }
+     
 }
