@@ -3,7 +3,7 @@ void main()
 {
 int k,l,n;
 printf("enter the number ");
-scanf("%d%d%d",&k&l&n);
+scanf("%d%d%d",&k,&l,&n);
 while(k!==0 && l!==0 && n!==0)
 {
 if(k>=l && k>=n)
