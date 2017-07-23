@@ -6,10 +6,8 @@ void main()
 
     printf("Enter the number range:");
     scanf("%d",&r);
-
     printf("series ");
     printf("%ld %ld",i,j);
-
     for(k=2;k<r;k++)
 {
          f=i+j;
