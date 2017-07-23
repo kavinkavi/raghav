@@ -1,10 +1,13 @@
 #include<stdio.h>
 void main()
 {
-int i,n,sum=o;
-forr(i=1;i<11;i++)
+int i,n,sum=0;
+printf("enter the number");
+scanf("%d",&n);
+for(i=0;i<10;i++)
 {
-n=sum+i;
-printf("%d",n);
+sum+=i;
 }
+printf(" sum=%d",sum);
+
 }
