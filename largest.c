@@ -10,12 +10,12 @@ if(k>=l && k>=n)
 {
 printf("largest number  is K ");
 }
-elseif(l>=k && l>=n)
+else if(l>=k && l>=n)
 {
 
 printf("the largest number is L");
 }
-elseif(n>=k && n>=l)
+else if(n>=k && n>=l)
 {
 printf("the largest number is N");
 }
