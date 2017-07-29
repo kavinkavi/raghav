@@ -1,6 +1,9 @@
 #include<stdio.h>
 void main()
 {
-char a='a';
-printf("%d",a);
-}
+char a='abc';
+  for(i=0;i<3;i++)
+  {
+    
+printf("%d",a[i]);
+}}
