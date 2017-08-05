@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-char ch[10]
+char ch[10];
 int i;
 for(i=0;i<n;i++)
 {
